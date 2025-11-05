@@ -9,9 +9,11 @@ This repository contains two Kaggle notebooks for training and inference of a **
 
 | Notebook                                                                                                  | Description                                                                                                     |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [🔗 Deepfake Detection (Training)](https://www.kaggle.com/code/harshitr9671/deepfake-detection)           | Contains the full training pipeline — dataset loading, feature extraction, model definition, and training loop. |
-| [🔗 Deepfake Detection (Inference)](https://www.kaggle.com/code/harshitr9671/deepfake-detection-infrence) | Loads the trained model checkpoint and performs inference on unseen data to generate predictions.               |
+| [Deepfake Detection (Training)](https://www.kaggle.com/code/harshitr9671/deepfake-detection)           | Contains the full training pipeline — dataset loading, feature extraction, model definition, and training loop. |
+| [Deepfake Detection (Inference)](https://www.kaggle.com/code/harshitr9671/deepfake-detection-infrence) | Loads the trained model checkpoint and performs inference on unseen data to generate predictions.               |
 
+
+**Project report:** [Project Report](https://drive.google.com/file/d/1OjZ5Ooxi7bww_40YPZWLn7XFCi9sqp84/view?usp=sharing)
 
 ## Environment Setup
 
@@ -39,7 +41,7 @@ pip install numpy pandas pillow scipy torch torchvision scikit-learn optuna tqdm
 
 ---
 
-## 🚀 How to Run the Notebooks
+## How to Run the Notebooks
 
 ### 1. **Training Notebook**
 
